@@ -1,0 +1,10 @@
+GET /Card/30bc63a4-7c3c-452e-8c78-84f264214382 HTTP/1.1
+Host: kad.arbitr.ru
+Connection: keep-alive
+Cache-Control: max-age=0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36
+Referer: http://kad.arbitr.ru/Card/30bc63a4-7c3c-452e-8c78-84f264214382
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: notShowTooltip=yes; userId=dd077b51-b4af-42d3-9675-f9621ae61430:F798C1174345D518C5FF29796574F460; ASP.NET_SessionId=0zuqxl3mqcn3so3w1ilsbith; KadLVCards=%d0%9073-14935%2f2013~%d0%9083-5002-8%2f3972-2011~%d0%9076-8582%2f2013~%d0%9040-112874%2f2013~%d0%9068-9030%2f2013; __utma=228081543.113798479.1413091422.1413148453.1413240940.6; __utmc=228081543; __utmz=228081543.1413091422.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); userId=dd077b51-b4af-42d3-9675-f9621ae61430:F798C1174345D518C5FF29796574F460
